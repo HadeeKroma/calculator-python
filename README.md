@@ -1,18 +1,21 @@
 # Calculator App
 
-A simple calculator built using Python.
+A simple command-line calculator built with Python. This program supports basic arithmetic operations and includes input validation to prevent runtime errors.
+
+---
 
 ## Features
-- Addition,subtraction, multiplication, division, modulo, exponent
-- Console-based user input and output
-- Basic error handling for invalid inputs
+
+- Addition, subtraction, multiplication, division
+- Modulo (%) and exponentiation (^)
+- User input validation and error handling
+- Console-based interface for quick testing
+
+---
+
 ## How to Run
-***bash
-python calculator.py
 
+Make sure you have Python 3 installed.
 
-## Tech Stack
-- Python 3.11
-- Git & GitHub
-- IntelliJ IDEA (Python plugin)
-
+```bash
+python Calculator.py
